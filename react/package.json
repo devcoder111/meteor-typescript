@@ -1,0 +1,17 @@
+{
+  "name": "meteor-typescript-samples-react",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@types/meteor": "^1.4.2",
+    "@types/react": "^15.0.34",
+    "@types/react-dom": "^0.14.23",
+    "babel-runtime": "^6.23.0",
+    "meteor-node-stubs": "^0.2.11",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.1"
+  }
+}

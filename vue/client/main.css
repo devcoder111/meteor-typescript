@@ -1,0 +1,40 @@
+body {
+  font-family:  Arial, sans-serif;
+  background-color: #eee;
+}
+
+h1, h2, p {
+  line-height: 1.15;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  padding: 20px 0 0 30px;
+  font-size: 10pt;
+  font-weight: normal;
+  color: #555;
+}
+
+h2 {
+  font-size: 11pt;
+  font-weight: bold;
+  padding: 10px 0 5px 0;
+}
+
+p {
+  font-size: 9pt;
+  padding: 0 0 10px 0;
+}
+
+.base-class {
+  background-color: white;
+  padding: 5px 20px 10px 20px;
+  margin: 15px 15px;
+  cursor: default;
+  box-shadow: 0px 1px 5px grey;
+}
+
+.hoverable {
+  cursor: pointer;
+}

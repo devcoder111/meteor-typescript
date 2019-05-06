@@ -1,0 +1,18 @@
+{
+  "name": "meteor-typescript-samples-vue",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@types/meteor": "^1.4.1",
+    "babel-runtime": "^6.23.0",
+    "meteor-node-stubs": "^0.2.11",
+    "vue": "^2.3.3",
+    "vue-class-component": "^5.0.1",
+    "vue-property-decorator": "^5.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-vue-jsx": "^3.4.3"
+  }
+}

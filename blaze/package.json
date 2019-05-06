@@ -1,0 +1,12 @@
+{
+  "name": "meteor-typescript-samples-blaze",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@types/meteor": "^1.4.1",
+    "babel-runtime": "^6.23.0",
+    "meteor-node-stubs": "^0.2.11"
+  }
+}
